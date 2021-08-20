@@ -1,0 +1,11 @@
+TODO - 
+
+visual bugs - 
+when hovering the buttons - cannot see the icon, due to its white color 
+
+
+-- 
+
+features - 
+let a person knows when he should limit his expenses
+let a person set a threshold for expenses (derives from savings)
